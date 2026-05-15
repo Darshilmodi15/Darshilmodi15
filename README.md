@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/darshil-modi15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/Darshilmodi15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
   <a href="mailto:darshilmodi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=flat-square&label=Profile+Views)
 </p>
 
 </div>
@@ -158,5 +157,5 @@ I'm actively looking for **AI/ML internship opportunities**. If you're building 
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshilmodi99@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=100&section=footer" width="100%"/>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=flat-square&label=Profile+Views)
 </div>
