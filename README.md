@@ -9,6 +9,8 @@
   <a href="https://github.com/Darshilmodi15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
   <a href="mailto:darshilmodi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=flat-square&label=Profile+Views" /></p>
+
 
 </div>
 
@@ -127,9 +129,9 @@ A 4-agent tutoring system (Content, Tutor, Evaluation, Coach) with persistent me
 
 <img src="https://github-readme-stats.vercel.app/api?username=Darshilmodi15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A56DB&icon_color=1A56DB&text_color=ffffff" height="165"/>
 
-&nbsp;&nbsp;
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshilmodi15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A56DB&text_color=ffffff" height="165"/>
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshilmodi15&theme=tokyonight&hide_border=true&background=0D1117&ring=1A56DB&fire=1A56DB&currStreakLabel=1A56DB" width="49%"/>
 
@@ -157,5 +159,4 @@ I'm actively looking for **AI/ML internship opportunities**. If you're building 
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshilmodi99@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=100&section=footer" width="100%"/>
-![Visitor Count](https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=flat-square&label=Profile+Views)
 </div>
