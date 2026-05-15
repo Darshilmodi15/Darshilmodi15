@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/darshil-modi15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/Darshilmodi15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
   <a href="mailto:darshilmodi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=flat-square&label=Profile+Views)
 </p>
 
 </div>
