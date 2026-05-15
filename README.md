@@ -126,7 +126,9 @@ A 4-agent tutoring system (Content, Tutor, Evaluation, Coach) with persistent me
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Darshilmodi15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A56DB&icon_color=1A56DB&text_color=ffffff" height="165"/>
+
 &nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshilmodi15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A56DB&text_color=ffffff" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshilmodi15&theme=tokyonight&hide_border=true&background=0D1117&ring=1A56DB&fire=1A56DB&currStreakLabel=1A56DB" width="49%"/>
