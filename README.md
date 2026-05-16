@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=180&section=header&text=Darshil%20Modi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<h1>👋 Hi, I'm Darshil Modi</h1>
+<h3>🤖 AI Engineer &nbsp;·&nbsp; 🧠 Multi-Agent Systems &nbsp;·&nbsp; 🚀 ML Enthusiast</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;Multi-Agent+AI+%7C+LLM+Pipelines+%7C+ML;2x+Hackathon+Finalist+%F0%9F%8F%86;First-Year+CSE+(AI+%26+ML)+%40+Adani+University)](https://git.io/typing-svg)
 
@@ -9,8 +10,6 @@
   <a href="https://github.com/Darshilmodi15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
   <a href="mailto:darshilmodi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=flat-square&label=Profile+Views" /></p>
-
 
 </div>
 
@@ -128,12 +127,10 @@ A 4-agent tutoring system (Content, Tutor, Evaluation, Coach) with persistent me
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Darshilmodi15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A56DB&icon_color=1A56DB&text_color=ffffff" height="165"/>
-
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshilmodi15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A56DB&text_color=ffffff" height="165"/>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshilmodi15&theme=tokyonight&hide_border=true&background=0D1117&ring=1A56DB&fire=1A56DB&currStreakLabel=1A56DB" width="49%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Darshilmodi15&theme=tokyonight&hide_border=true&background=0D1117&ring=1A56DB&fire=1A56DB&currStreakLabel=1A56DB)](https://git.io/streak-stats)
 
 </div>
 
@@ -158,5 +155,9 @@ I'm actively looking for **AI/ML internship opportunities**. If you're building 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-modi15)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshilmodi99@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=100&section=footer" width="100%"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=flat-square&label=Profile+Views)
+
+---
+*"Every person who has ever built something extraordinary was, at some point, simply someone who refused to pretend the calling wasn't there."*
+
 </div>
