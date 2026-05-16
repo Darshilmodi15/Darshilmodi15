@@ -14,9 +14,8 @@
   <a href="mailto:darshilmodi99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=for-the-badge&label=Profile+Views"/>
 </p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Darshilmodi15&color=1A56DB&style=for-the-badge&label=Profile+Views"/></p>
 </div>
 
 ---
