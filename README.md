@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=Darshil%20Modi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Multi-Agent+AI+%7C+LLM+Pipelines+%7C+ML;2x+Hackathon+Finalist;First-Year+CSE+AI+%26+ML+%40+Adani+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;Multi-Agent+AI+%7C+LLM+Pipelines+%7C+ML;2x+Hackathon+Finalist+%F0%9F%8F%86;First-Year+CSE+(AI+%26+ML)+%40+Adani+University)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/darshil-modi15">
@@ -21,7 +21,7 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
 ```python
 darshil = {
@@ -38,9 +38,9 @@ I'm a first-year AI/ML engineer who doesn't wait to build. From bias-aware hirin
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages and Frameworks**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -49,14 +49,14 @@ I'm a first-year AI/ML engineer who doesn't wait to build. From bias-aware hirin
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI and ML and Automation**
+**AI & ML & Automation**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-**Databases and DevOps**
+**Databases & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -67,13 +67,13 @@ I'm a first-year AI/ML engineer who doesn't wait to build. From bias-aware hirin
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### [TalentAI-X](https://github.com/Darshilmodi15/talentai-x)
+### 🎯 [TalentAI-X](https://github.com/Darshilmodi15/talentai-x)
 **Multi-Agent Talent Intelligence System**
 
 Tic-Tech Toe 26 · Team Lead · Finalist
@@ -85,7 +85,7 @@ A bias-aware, explainable AI hiring platform with **5 specialized agents** achie
 </td>
 <td width="50%">
 
-### [Agri-Sage](https://github.com/Darshilmodi15/agri-sage-ai-agent1)
+### 🌾 [Agri-Sage](https://github.com/Darshilmodi15/agri-sage-ai-agent1)
 **AI-Powered Agricultural Assistant**
 
 Kaggle AI Agents Capstone · Track B · Lead Developer
@@ -99,7 +99,7 @@ A 4-agent system with real-time crop disease diagnosis via computer vision, pers
 <tr>
 <td width="50%">
 
-### [EduMentor](https://github.com/Darshilmodi15/EduMentor-Agent)
+### 📚 [EduMentor](https://github.com/Darshilmodi15/EduMentor-Agent)
 **AI Learning Agent for Low-Resource Students**
 
 Personal Project
@@ -111,7 +111,7 @@ A 4-agent tutoring system with persistent memory, PDF summarization, auto-genera
 </td>
 <td width="50%">
 
-### Hackathon Highlights
+### 🏆 Hackathon Highlights
 
 **Smart India Hackathon 2025**
 National Finalist · Team Leader
@@ -127,7 +127,7 @@ Built TalentAI-X in the Multi-Agent AI and Talent Intelligence domain.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -143,17 +143,17 @@ Built TalentAI-X in the Multi-Agent AI and Talent Intelligence domain.
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Prompt Engineering for Everyone | IBM Developer Skills Network / Cognitive Class | 2025 |
-| 5-Day AI Agents Intensive Course | Kaggle x Google | 2025 |
-| Yuva AI for All | — | 2025 |
+| 🧠 Prompt Engineering for Everyone | IBM Developer Skills Network / Cognitive Class | 2025 |
+| 🤖 5-Day AI Agents Intensive Course | Kaggle x Google | 2025 |
+| 🌐 Yuva AI for All | — | 2025 |
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
