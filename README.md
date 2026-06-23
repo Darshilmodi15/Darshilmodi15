@@ -288,13 +288,6 @@ issued      : Apr 2026
 5-Day AI Agents Intensive Course
 issuer      : Kaggle x Google
 issued      : Dec 2025
-
-Prompt Engineering for Everyone
-issuer      : IBM Skills Network / Cognitive Class
-issued      : Dec 2025
-
-Yuva AI for All
-issued      : 2025
 ```
 
 ```txt
