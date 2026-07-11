@@ -11,6 +11,9 @@
   <a href="https://darshilmodi.in" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;
+  <a href="https://drive.google.com/file/d/1Gz1slrLHMM6OcsaCe9ABpPF0edMzsPDk/view?usp=share_link" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Resume-0B57D0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:darshilmodi99@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
@@ -285,6 +288,9 @@ If you're building something meaningful with AI, let's talk.
 </a>&nbsp;
 <a href="https://darshilmodi.in" style="text-decoration:none">
   <img src="https://img.shields.io/badge/View_Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>&nbsp;
+<a href="https://drive.google.com/file/d/1Gz1slrLHMM6OcsaCe9ABpPF0edMzsPDk/view?usp=share_link" style="text-decoration:none">
+  <img src="https://img.shields.io/badge/View_Resume-0B57D0?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
 <br/><br/>
